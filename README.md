@@ -1,5 +1,5 @@
 # Processamento-de-Dados-IC-FAPESP
-Processamento de arquivos de matrizes, normalização dos dados com Pythone R e geração de arquivos de redes. Automatização dos códigos com Snakemake.
+Processamento de arquivos de matrizes, normalização dos dados com Python e R e geração de arquivos de redes. Automatização dos códigos com Snakemake.
 
 ## Normalização dos dados
 - Métodos de Normalização Intra-amostrais
