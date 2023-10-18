@@ -1,0 +1,6 @@
+bioinfokit==2.1.2
+conda==23.1.0
+inmoose==0.2.0
+mamba==1.4.2
+python==3.10.12
+snakemake==7.32.3

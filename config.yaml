@@ -1,0 +1,11 @@
+default-resources: [load=1]
+
+software:
+        numreads_to_integer: /home/biapastos/snakemake-pipeline/labbces_racs_ic_biancapastos_2023/scripts/matrix_to_rounded_integer.py
+        combats: /home/biapastos/snakemake-pipeline/labbces_racs_ic_biancapastos_2023/scripts/combats_transformations.py
+        intra_normalizations: /home/biapastos/snakemake-pipeline/labbces_racs_ic_biancapastos_2023/scripts/intra_normalizations.py
+        spikes: /home/biapastos/snakemake-pipeline/labbces_racs_ic_biancapastos_2023/scripts/spikes.py
+        ruvg: /home/biapastos/snakemake-pipeline/labbces_racs_ic_biancapastos_2023/scripts/ruvg.R
+        inter_normalizations: /home/biapastos/snakemake-pipeline/labbces_racs_ic_biancapastos_2023/scripts/inter_normalizations.R
+        qnt_norm: /home/biapastos/snakemake-pipeline/labbces_racs_ic_biancapastos_2023/scripts/qnt_norm.R
+        remove_batch_effect: /home/biapastos/snakemake-pipeline/labbces_racs_ic_biancapastos_2023/scripts/remove_batcheffect.R
